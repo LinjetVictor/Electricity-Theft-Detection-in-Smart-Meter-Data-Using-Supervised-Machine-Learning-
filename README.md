@@ -176,12 +176,6 @@ Accuracy is not used as the main metric because the data is highly imbalanced.
 | 200 | | | |
 | 500 | | | |
 
-**Figures** (save these from the notebook into a `figures/` folder):
-
-![Confusion matrix](figures/confusion_matrix.png)
-![Precision-recall curve](figures/pr_curve.png)
-![SHAP summary](figures/shap_summary.png)
-
 ---
 
 ## How to Run
