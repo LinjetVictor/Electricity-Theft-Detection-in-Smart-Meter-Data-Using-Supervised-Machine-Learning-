@@ -1,8 +1,6 @@
 # Electricity Theft Detection in Smart Meter Data Using Supervised Machine Learning
 
-A ranking-based approach to prioritising field inspections.
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/Electricity_Theft_Detection_Colab.ipynb)
+A ranking-based approach to prioritising field inspections
 
 
 ## Table of Contents
