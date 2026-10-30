@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+scikit-learn
+imbalanced-learn
+xgboost
+lightgbm
+shap
+joblib
+tensorflow   # only needed for the optional 1D-CNN cell
+kaggle       # only needed to download the dataset via the CLI
+jupyter
